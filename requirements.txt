@@ -1,6 +1,4 @@
 fastapi
 uvicorn
-opencv-python
-pillow
-torch
-transformers
+opencv-python-headless
+Pillow
